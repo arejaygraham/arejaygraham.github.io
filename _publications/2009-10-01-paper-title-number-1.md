@@ -1,15 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Decrease in hysteresis of planetary climate for planets with long solar days"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/abbot2018hysteresis
+excerpt: 'We find that the amount of hysteresis (the range in stellar flux for which there is bistability in climate) is
+significantly reduced for solar days with lengths of tens of Earth days, and disappears for solar days of hundreds of
+Earth days. These results suggest that tidally influenced planets orbiting M and K stars that are not synchronously
+rotating could have much less hysteresis associated with the snowball bifurcations than they would if they were
+rapidly rotating. This implies that the amount of time it takes them to escape a snowball state via CO2 outgassing
+would be greatly reduced, as would the period of cycling between the warm and snowball state if they have low
+CO2 outgassing rates.'
+date: 2018-02-10
+venue: 'Astrophysical Journal'
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/aaa70f/meta'
+citation: 'Abbot, Dorian S., Jonah Bloch-Johnson, Jade Checlair, Navah X. Farahat, <b>R. J. Graham<\b>, David Plotkin, Predrag Popovic, and and Francisco Spaulding-Astudillo. &quot;Decrease in Hysteresis of Planetary Climate for Planets with Long Solar Days&quot; <i>The Astrophysical Journal</i> 854, no. 1 (2018): 3. https://doi.org/10.3847/1538-4357/aaa70f.'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we use the general circulation model PlaSim to show that slowly rotating planets depths have a much narrower range of instellations over which they display the bistability between temperate and snowball states that characterizes the climates of more rapidly rotating planets like the Earth. This suggests that slowly rotating planets are less vulnerable to catastrophic runaway glaciation than rapid rotators, which may increase their climatic stability in the outer reaches of the habitable zone.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://arejaygraham.github.io/files/abbot2018hysteresis.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Abbot, Dorian S., Jonah Bloch-Johnson, Jade Checlair, Navah X. Farahat, <b>R. J. Graham<\b>, David Plotkin, Predrag Popovic, and and Francisco Spaulding-Astudillo. &quot;Decrease in Hysteresis of Planetary Climate for Planets with Long Solar Days&quot; <i>The Astrophysical Journal</i> 854, no. 1 (2018): 3. https://doi.org/10.3847/1538-4357/aaa70f.
