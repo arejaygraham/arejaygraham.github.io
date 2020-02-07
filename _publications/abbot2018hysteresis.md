@@ -19,4 +19,3 @@ In this paper, we use the general circulation model PlaSim to show that slowly r
 
 [Download paper here](http://arejaygraham.github.io/files/abbot2018hysteresis.pdf)
 
-Recommended citation: Abbot, Dorian S., Jonah Bloch-Johnson, Jade Checlair, Navah X. Farahat, <b>R. J. Graham</b>, David Plotkin, Predrag Popovic, and and Francisco Spaulding-Astudillo. &quot;Decrease in Hysteresis of Planetary Climate for Planets with Long Solar Days&quot; <i>The Astrophysical Journal</i> 854, no. 1 (2018): 3. https://doi.org/10.3847/1538-4357/aaa70f.
