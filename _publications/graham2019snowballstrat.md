@@ -6,7 +6,7 @@ excerpt: '"Here we conduct the first analysis of the stratospheric circulation o
 date: 2019-11-27
 venue: 'Journal of Geophysical Research-Atmospheres'
 paperurl: 'http://arejaygraham.github.io/files/graham2019snowballstrat.pdf'
-citation: '[b]Graham, R. J.[\b], T. A. Shaw and D. S. Abbot, 2019: [i]The snowball stratosphere[\i], J. Geophys. Res., 10.1029/2019JD031361.'
+citation: '<b>Graham, R. J.<\b>, T. A. Shaw and D. S. Abbot, 2019: <i>The snowball stratosphere<\i>, J. Geophys. Res., 10.1029/2019JD031361.'
 ---
 In this paper, we carry out the first GCM simulations of the stratosphere of the snowball Earth. I conducted this research with Dorian Abbot and Tiffany Shaw while pursuing my Bachelor's in Geophysical Sciences at the University of Chicago. 
 
