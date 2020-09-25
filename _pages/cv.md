@@ -32,7 +32,7 @@ Research experience
   * Our simulations indicate that wave forcing on the stratosphere from the troposphere is considerably reduced in the Snowball state, the polar vortex is greatly strengthened, and the stratosphere is cold enough for the formation of a class of clouds that may have important impacts on the climate
 * Student Research Technician - UChicago - Department of Geophysical Sciences, June 2016 - 2018
   * Worked with professor Fred Ciesla 
-	* Modeled the thermal evolution of chondritic planetesimals in the early Solar System to understand how  various parameters affect the final porosity state of a body (with implications for the expected outcomes of impacts between bodies)
+  * Modeled the thermal evolution of chondritic planetesimals in the early Solar System to understand how  various parameters affect the final porosity state of a body (with implications for the expected outcomes of impacts between bodies)
   * Wrote a realistic numerical model of planetesimal evolution through time that considers abundances of radioactive elements, porosity evolution, hot-pressing, and heat transport within the body
 
 * Collaborative Research Project - UChicago - Dept. Of Geophysical Sciences,  June 2017 - Nov. 2017
