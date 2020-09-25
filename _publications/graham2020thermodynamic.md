@@ -18,7 +18,4 @@ in light of insights derived from the revised picture of weathering."'
 date: 2020-11-27
 venue: 'Astrophysical Journal'
 paperurl: 'http://arejaygraham.github.io/files/graham2020thermodynamic.pdf'
-citation: '<b>Graham, R. J.</b>, R. T. Pierrehumbert, 2020: "Thermodynamic and Energetic Limits on Continental Silicate Weathering Strongly Impact the Climate and Habitability of Wet, Rocky Worlds", <i>Astrophysical Journal</i>, https://doi.org/10.3847/1538-4357/ab9362.'
----
-
-[Download paper here](http://arejaygraham.github.io/files/graham2020thermodynamic.pdf)
+citation: '<b>Graham, R. J.</b>, R. T. Pierrehumbert, 2020: "Thermodynamic and Energetic Limits on Continental Silicate Weathering Strongly Impact the Climate and Habitability of Wet, Rocky Worlds", <i>Astrophysical Journal</i>, 10.3847/1538-4357/ab9362.'
