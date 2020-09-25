@@ -30,15 +30,17 @@ Research experience
   * We derived a simple theoretical result that partially validates assumptions made in estimating the pCO2 during a Snowball event from geochemical proxies.
   * We derived an extension of the Statistical Transformed Eulerian Mean framework for analyzing atmospheric circulations.
   * Our simulations indicate that wave forcing on the stratosphere from the troposphere is considerably reduced in the Snowball state, the polar vortex is greatly strengthened, and the stratosphere is cold enough for the formation of a class of clouds that may have important impacts on the climate
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Student Research Technician - UChicago - Department of Geophysical Sciences, June 2016 - 2018
+  * Worked with professor Fred Ciesla 
+	* Modeled the thermal evolution of chondritic planetesimals in the early Solar System to understand how  various parameters affect the final porosity state of a body (with implications for the expected outcomes of impacts between bodies)
+  * Wrote a realistic numerical model of planetesimal evolution through time that considers abundances of radioactive elements, porosity evolution, hot-pressing, and heat transport within the body
+
+* Collaborative Research Project - UChicago - Dept. Of Geophysical Sciences,  June 2017 - Nov. 2017
+  * Worked as part of Dorian Abbot’s research group Science Family 
+  * We ran the intermediate complexity global climate model PLaSIM to investigate the effect of solar day length on the transition to and from a Snowball state
+  * We discovered that the strength of hysteresis between Snowball and non-Snowball decreases as a planet’s rotation approaches a tidally locked state, at which point the hysteresis disappears. 
+  * This result suggests that sudden transitions to global glaciation may be less frequent and less severe on tidally influenced planets, bolstering their habitability compared to rapid rotators.
+
 
 Publications
 ======
@@ -54,4 +56,12 @@ Talks
   
 Outreach
 ======
-* Currently signed in to 43 different slack teams
+* John Michael Godier's Event Horizon podcast, Sep. 14th 2020
+  * Interviewed to discuss the implications of the discovery of phosphine in Venus's atmosphere
+  * As of Sep. 25th 2020, interview has 174,256 views
+  * https://youtu.be/7YNxMVJN-Hk
+* Jesus College Research Symposium, Jun. 6th 2019
+  * Gave a public talk about my research
+* Pint of Science, May 22nd 2019
+  * Gave a public lecture at a pub about my research
+  * Received free beer
