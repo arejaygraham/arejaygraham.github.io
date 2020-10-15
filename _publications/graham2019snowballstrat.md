@@ -2,10 +2,10 @@
 title: "The snowball stratosphere"
 collection: publications
 permalink: /publication/graham2019snowballstrat
-excerpt: '"Here we conduct the first analysis of the stratospheric circulation of the Snowball Earth using ECHAM6 general circulation model simulations. In order to understand the factors contributing to the stratospheric circulation, we extend the Statistical Transformed Eulerian Mean framework. We find that the stratosphere during a snowball with prescribed modern ozone levels exhibits a weaker meridional overturning circulation, reduced wave activity, and stronger zonal jets and is extremely cold relative to modern conditions. Notably, the snowball stratosphere displays no sudden stratospheric warmings. Without ozone, the stratosphere displays a complete lack of polar vortex and even colder temperatures. We also explicitly quantify for the first time the cross‐tropopause mass exchange rate and stratospheric mixing efficiency during the snowball and show that our values do not change the constraints on CO2 inferred from geochemical proxies during the Marinoan glaciation (ca. 635 Ma), unless the O2 concentration during the snowball was orders of magnitude less than the CO2 concentration."'
+excerpt: ''
 date: 2019-11-27
 venue: 'Journal of Geophysical Research-Atmospheres'
-paperurl: 'http://arejaygraham.github.io/files/graham2019snowballstrat.pdf'
+paperurl: 'https://doi.org/10.1029/2019JD031361'
 citation: '<b>Graham, R. J.</b>, T. A. Shaw and D. S. Abbot, 2019: "The snowball stratosphere", <i>Journal of Geophysical Research: Atmospheres</i>, 10.1029/2019JD031361.'
 ---
 In this paper, we carry out the first GCM simulations of the stratosphere of the snowball Earth. I conducted this research with Dorian Abbot and Tiffany Shaw while pursuing my Bachelor's in Geophysical Sciences at the University of Chicago. 
