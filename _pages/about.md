@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I study planetary habitability. "
+title: "Hello, worlds!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 
-Thanks for visiting.
+My name is R.J. Graham, this is a catalog of my scientific shenanigans. Welcome! Take off your shoes, make yourself at home.
 ======
-blip bloop [blop](https://www2.physics.ox.ac.uk/contacts/people/grahamr)
+I want to understand the mechanisms that can stabilize and destabilize the climates of Earth-like planets.
 
 
 
-Site-wide configuration
-------
-floobity flibble
