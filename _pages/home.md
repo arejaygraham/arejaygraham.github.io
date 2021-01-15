@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "R.J. Graham"
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 
