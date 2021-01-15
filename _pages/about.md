@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, worlds!"
+title: "R.J. Graham"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-My name is R.J. Graham, this is a catalog of my scientific shenanigans. Welcome! Take off your shoes, make yourself at home.
+Welcome, please take off your shoes. 
 ======
-I want to understand the mechanisms that can stabilize and destabilize the climates of Earth-like planets.
+I want to understand the mechanisms that can stabilize and destabilize the climates of Earth and "Earth-like" planets. To this end, I develop and apply numerical models to simulate planetary atmospheres and their chemical interactions with silicate crusts. 
 
 
 
